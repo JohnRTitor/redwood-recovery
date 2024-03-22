@@ -8,7 +8,7 @@ If you have TWRP/OFOX/etc. that can directly flash zips, just flash.
 
 Download files from 
 
-https://github.com/R9TRH/redwood-recovery/releases/latest
+https://github.com/JohnRTitor/redwood-recovery/releases/latest
 
 # CREDITS
 @Telexec for initial version & help 
@@ -16,3 +16,5 @@ https://github.com/R9TRH/redwood-recovery/releases/latest
 @osm0sis for build scripts
 
 @TheStrechh for full working TWRP & OFOX
+
+@R9TRH for TWRP zips
